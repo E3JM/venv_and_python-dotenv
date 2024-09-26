@@ -1,7 +1,8 @@
 
 # venv and python-dotenv
 
-># Initializing this project with a .env file and a virtual environment
+># Initializing this project
+This section describes how to initialize your envirnment with a .env file and a virtual environment.
 1. Create a virtual environment: `python -m venv project_env`
 2. Activate the environment: `.\project_env\Scripts\activate` (for VS Code)
 3. Install libraries for this environment: `pip install - r requirement.txt`
