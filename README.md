@@ -1,6 +1,14 @@
 
 # venv and python-dotenv
 
+># Initializing this project with a .env file and a virtual environment
+1. Create a virtual environment: `python -m venv project_env`
+2. Activate the environment: `.\project_env\Scripts\activate` (for VS Code)
+3. Install libraries for this environment: `pip install - r requirement.txt`
+4. Create a `.env` file
+5. Fill it up based on what is described in the `env-template` file
+6. Edit your `.env` file to enter your Open AI key
+
 ># venv
 ## Tutorials
 - **windows**: https://www.youtube.com/watch?v=APOPm01BVrk
